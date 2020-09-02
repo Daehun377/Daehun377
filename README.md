@@ -13,6 +13,6 @@
 
 * 💻  &nbsp; I’m currently learning **MERN (MongoDB, ExpressJs, React, React-Native, NodeJs)** 
 * 💻  &nbsp; For the future, I wanna become a professional **IOS developer** 
-* 💜  &nbsp; I'm interested in **Guitar, Social Science, Investment,** and  **Rock and Fingerstyle Guitar**
+* 💜  &nbsp; I'm interested in **Development, Social Science, Investment,** and  **Rock and Fingerstyle Guitar**
 
 
