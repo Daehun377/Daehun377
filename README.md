@@ -6,6 +6,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gidonskaris@gmail.com)](mailto:gidonskaris@gmail.com)
 
 
+#### 🙌  Hi, I'm Daehun Kim ! 
 
+#### 📣  &nbsp; I'm looking forward to being a good developer
+#### 📣  &nbsp; 世界を幸せにする開発者になりたいと思っています、キムデフンです！主にMERNで開発をしています。
+
+* 💻  &nbsp; I’m currently learning MERN (MongoDB, ExpressJs, React, React-Native, NodeJs) 
+* 💜  &nbsp; I'm interested in **Guitar, Social Science, Investment,** and  **Rock and Fingerstyle Guitar**
 
 
