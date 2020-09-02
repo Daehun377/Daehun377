@@ -12,7 +12,7 @@
 #### 📣  &nbsp; 世界を幸せにする開発者になりたいと思っています、キムデフンです！主にMERNで開発をしています。
 
 * 💻  &nbsp; I’m currently learning **MERN (MongoDB, ExpressJs, React, React-Native, NodeJs)** 
-* 💻  &nbsp; For the future, I wanna be a **IOS developer** 
+* 💻  &nbsp; For the future, I wanna become a professional **IOS developer** 
 * 💜  &nbsp; I'm interested in **Guitar, Social Science, Investment,** and  **Rock and Fingerstyle Guitar**
 
 
